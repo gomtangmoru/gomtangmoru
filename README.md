@@ -1,7 +1,7 @@
 ### 어서와요 :P
-이 인간은 뭐하는 인간일까요? :
-깃헙을 보시다시피 저는 개발자라고 하긴 좀 뭐한 학생입니다 
-코딩에 대해서 그리 친한편이 아니라 점점 발전해나갈 생각입니다
+>이 인간은 뭐하는 인간일까요? :
+> >깃헙을 보시다시피 저는 개발자라고 하긴 좀 뭐한 학생입니다 
+> >코딩에 대해서 그리 친한편이 아니라 점점 발전해나갈 생각입니다
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveGom)](https://github.com/anuraghazra/github-readme-stats)
 
