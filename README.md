@@ -2,7 +2,7 @@
 # 이 인간은 뭐하는 인간일까요?   
 개발 안하는 학생이에요   
 개발 맡겨도 못하니 맡길 생각 하지 마세요   
-#친해지고 싶은데 어떻게 다가갈까요   
+# 친해지고 싶은데 어떻게 다가갈까요   
 https://discord.gg/R2atKX6rjZ 이쪽으로 놀러오세요   
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveGom)](https://github.com/anuraghazra/github-readme-stats)
