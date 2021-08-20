@@ -4,7 +4,7 @@
 개발 맡겨도 못하니 맡길 생각 하지 마세요   
 # 그래서 하는 언어는 뭐가 있죠?   
 엄, 머부분은 다 못합니다   
-Python - 초급 **( Main Language) **   
+Python - 초급 **( Main Language)**   
 JavaScript - 입문   
 C++ - 입문   
 # 친해지고 싶은데 어떻게 다가갈까요   
