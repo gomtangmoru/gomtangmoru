@@ -1,7 +1,7 @@
-- 🌱 I’m currently learning ... :
-  Python
-  Javascript
-  Typescript   
+- 🌱 I’m currently learning ... :   
+  - Python   
+  - Javascript   
+  - Typescript   
 - 💬 Ask me about :   
   I'm a high school student in Korea, and although I can't program perfectly yet, I have some computer knowledge and can do some moderate programming.
 - 📫 How to reach me:   
